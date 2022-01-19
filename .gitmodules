@@ -1,0 +1,4 @@
+[submodule "lmdb"]
+	path = lmdb
+	url = https://github.com/LMDB/lmdb
+	ignore = dirty
